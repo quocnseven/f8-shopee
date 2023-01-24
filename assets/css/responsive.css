@@ -165,6 +165,43 @@
         margin-right: 4px;
     }
 
-    
 
+    .footer__content{
+        padding: 0 16px;
+    }
+
+    .footer__heading{
+        text-align: center;
+    }
+
+    .footer-item_link{
+        justify-content: center;
+    }
+
+    .footer__download{
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .footer__download-app{
+        margin-top: 16px;
+    }
+
+    .footer__download-qr{
+        margin: 0;
+    }
+
+    .footer__download-app-link{
+        margin-bottom: 8px;
+    }
+
+    .footer__download-app-link img{
+        width: 100px;
+        height: auto;
+    }
+
+    .footer__bottom{
+        margin-top: 16px;
+    }
 }
