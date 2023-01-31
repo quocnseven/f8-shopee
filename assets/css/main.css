@@ -74,14 +74,6 @@
     color: var(--primary-color);
 }
 
-.header__sort-item--active .header__sort-link::before{
-    content: "";
-    position: absolute;
-    top: 99%;
-    left: 0;
-    right: 0;
-    border: 1px solid var(--primary-color);
-}
 
 
 .header__sort-link{
